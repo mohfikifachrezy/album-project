@@ -4,7 +4,7 @@
 
 Gambaran App yang akan dibuat:
 
-![app-outline](https://lh6.googleusercontent.com/-nc-RsyLjBAY/VGve1G_8h1I/AAAAAAAAAKY/lVT6_ykBrB4/s800/menghapus+repos+github.gif)
+![app-outline](https://youtu.be/p5fVBzTX8Xs)
 
 * Install [Expo Desktop](https://docs.expo.io/versions/v16.0.0/introduction/installation.html).
 * Install Expo App -> Google Play Store or iOS App Store.
