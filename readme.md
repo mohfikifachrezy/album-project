@@ -4,7 +4,15 @@
 
 Gambaran App yang akan dibuat:
 
-![app-outline](https://youtu.be/p5fVBzTX8Xs)
+![app-outline](https://lh6.googleusercontent.com/-nc-RsyLjBAY/VGve1G_8h1I/AAAAAAAAAKY/lVT6_ykBrB4/s800/menghapus+repos+github.gif)
+
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 * Install [Expo Desktop](https://docs.expo.io/versions/v16.0.0/introduction/installation.html).
 * Install Expo App -> Google Play Store or iOS App Store.
