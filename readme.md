@@ -71,7 +71,7 @@ Update Header.js
 
 ### Add View Tag to wrap Text Tag
 
-![3-wrap-with-view-tag](http://res.cloudinary.com/medioxtra/image/upload/c_scale,h_124,w_300/v1499954927/albums-app/3-wrap-with-view-tag.png)
+![3-wrap-with-view-tag](http://haloponsel.com/wp-content/uploads/2016/11/dp-bbm-bergerak-keren-oppan-gangnam-style.gif)
 
 Update Header.js
 
